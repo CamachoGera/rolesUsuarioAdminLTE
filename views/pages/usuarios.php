@@ -77,16 +77,16 @@
                     <div class="box-body">
                         <div class="form-group">
                             <label for="exampleInputEmail1">Nombre</label>
-                            <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Nombre">
+                            <input type="text" class="form-control input-sm" id="exampleInputEmail1" placeholder="Nombre">
                         </div>
                         <div class="form-group">
                             <label for="exampleInputPassword1">Nombre de Usuario</label>
-                            <input type="text" class="form-control" id="exampleInputPassword1"
+                            <input type="text" class="form-control input-sm" id="exampleInputPassword1"
                                 placeholder="Nombre de Usuario">
                         </div>
                         <div class="form-group">
                             <label>Disabled Result</label>
-                            <select class="form-control select2" style="width: 100%;">
+                            <select class="form-control select2 input-sm" style="width: 100%;">
                                 <option selected="selected">Alabama</option>
                                 <option>Alaska</option>
                                 <option disabled="disabled">California (disabled)</option>
@@ -101,8 +101,8 @@
                 </form>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Cerrar</button>
-                <button type="button" class="btn btn-primary">Registrar</button>
+                <button type="button" class="btn btn-sm btn-default pull-left" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-sm btn-primary">Registrar</button>
             </div>
         </div>
         <!-- /.modal-content -->

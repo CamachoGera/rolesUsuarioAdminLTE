@@ -35,8 +35,8 @@
                     </span>
                 </a>
                 <ul class="treeview-menu">
-                    <li><a href="index.php?pages=user"><i class="fa  fa-user"></i> Administrar usuarios</a></li>
-                    <li><a href="index.php?pages=roles"><i class="fa fa-lock"></i> Administrar permisos</a></li>
+                    <li><a href="usuarios"><i class="fa  fa-user"></i> Administrar usuarios</a></li>
+                    <li><a href="roles"><i class="fa fa-lock"></i> Administrar permisos</a></li>
                 </ul>
             </li>
             <!-- <li class="header">LABELS</li>
